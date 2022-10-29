@@ -18,4 +18,4 @@ ggsurvplot(fit,data=data_s,surv.median.line = "hv",pval=T,risk.table = T)
 ![image](https://user-images.githubusercontent.com/110582335/198823299-ba988b73-84d3-4fed-915a-9ce61902561f.png)
 
 # Interpretation :- 
-Survival probability for 56% Female and male of above sample is 
+Survival probability for 56% Female and male of above sample are 1200 days and 1000 days i.e 3.2 and 2.7 years respectively .

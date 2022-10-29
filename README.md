@@ -17,3 +17,5 @@ fit = survfit(Surv(OS,Censor..alive.0..dead.1.) ~ Gender,data = data_s)
 ggsurvplot(fit,data=data_s,surv.median.line = "hv",pval=T,risk.table = T)
 ![image](https://user-images.githubusercontent.com/110582335/198823299-ba988b73-84d3-4fed-915a-9ce61902561f.png)
 
+# Interpretation :- 
+Survival probability for 56% Female and male of above sample is 
